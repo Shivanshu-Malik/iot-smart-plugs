@@ -1,0 +1,1 @@
+/home/cloudera/.sbt/boot/scala-2.12.4/lib/scala-library.jar:/home/cloudera/.ivy2/cache/org.apache.kafka/kafka-clients/jars/kafka-clients-1.0.0.jar:/home/cloudera/.ivy2/cache/org.lz4/lz4-java/jars/lz4-java-1.4.jar:/home/cloudera/.ivy2/cache/org.xerial.snappy/snappy-java/bundles/snappy-java-1.1.4.jar:/home/cloudera/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.25.jar

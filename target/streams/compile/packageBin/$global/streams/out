@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/cloudera/hostFolder/DEAcademyMockProject/target/scala-2.12/deacademymockproject_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kafka/producer/KafkaFileStreamProducer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cloudera/hostFolder/DEAcademyMockProject/target/scala-2.12/classes/kafka/producer/KafkaFileStreamProducer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kafka/producer/KafkaFileStreamApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cloudera/hostFolder/DEAcademyMockProject/target/scala-2.12/classes/kafka/producer/KafkaFileStreamApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kafka/producer[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cloudera/hostFolder/DEAcademyMockProject/target/scala-2.12/classes/kafka/producer[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kafka/producer/KafkaFileStreamApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cloudera/hostFolder/DEAcademyMockProject/target/scala-2.12/classes/kafka/producer/KafkaFileStreamApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kafka[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cloudera/hostFolder/DEAcademyMockProject/target/scala-2.12/classes/kafka[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
